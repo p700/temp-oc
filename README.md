@@ -2,9 +2,10 @@
 
 使用 MVC 目录结构 <br>
 自带 PCH 文件	<br>
->使用 Pod 管理第三方框架
+><b>使用 Pod 管理第三方框架</b>
 >>自带 Masonry(自动布局)
 
->info.plist
+&nbsp;
+><b>info.plist</b>
 >>支持 http:// 协议
 
